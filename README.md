@@ -68,7 +68,7 @@ Note that outputs (images) are currently generated in the same directory as the 
 
 ## Using PcapInspect in Jupyter
 
-The [example Jupyter notebook](examples/SlowBgpUpdates/Example\ analysis\ of\ slow\ BGP\ updates\ using\ Jupyter.ipynb)
+The [example Jupyter notebook](examples/SlowBgpUpdates/ExampleAnalysisOfSlowBgpUpdatesUsingJupyter.ipynb)
 was created interactively using [Jupyter](https://jupyter.org/) running in a Docker container. The
 Docker container was created by following the [PcapInspect Jupyter installation notes](INSTALL.md#jupyter).
 
